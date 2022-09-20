@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wheres-waldo-game/static/css/main.66481406.css",
-    "main.js": "/wheres-waldo-game/static/js/main.c9d465d4.js",
+    "main.js": "/wheres-waldo-game/static/js/main.d57aa841.js",
     "static/media/waldophoto.jpg": "/wheres-waldo-game/static/media/waldophoto.a7c2e9ca4743476aa203.jpg",
     "index.html": "/wheres-waldo-game/index.html",
     "static/media/medal.svg": "/wheres-waldo-game/static/media/medal.720d251d014215735293eca6304f4791.svg",
     "main.66481406.css.map": "/wheres-waldo-game/static/css/main.66481406.css.map",
-    "main.c9d465d4.js.map": "/wheres-waldo-game/static/js/main.c9d465d4.js.map"
+    "main.d57aa841.js.map": "/wheres-waldo-game/static/js/main.d57aa841.js.map"
   },
   "entrypoints": [
     "static/css/main.66481406.css",
-    "static/js/main.c9d465d4.js"
+    "static/js/main.d57aa841.js"
   ]
 }
